@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieCatalogueSub3</string>
+    <string name="movie">Movie</string>
+    <string name="tv">Tv</string>
+    <string name="pengaturan">Pengaturan</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="genre">Jenis:</string>
+    <string name="rilis">Tanggal Rilis:</string>
+    <string name="deskripsi">Deskripsi:</string>
+    <string name="gambar_poster">Gambar Poster</string>
+</resources>

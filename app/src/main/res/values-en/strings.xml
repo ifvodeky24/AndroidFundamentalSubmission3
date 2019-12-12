@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogueSub3</string>
+    <string name="movie">Movie</string>
+    <string name="tv">Tv</string>
+    <string name="pengaturan">Settings</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="genre">Genre:</string>
+    <string name="rilis">Release Date:</string>
+    <string name="deskripsi">Description:</string>
+    <string name="gambar_poster">Poster Image</string>
+
+</resources>
